@@ -1,0 +1,191 @@
+/* /Pages/Cart.razor.rz.scp.css */
+.item-container[b-rngufqtam0]
+{
+    display:flex;
+    padding:6px;
+}
+.item-image-wrapper[b-rngufqtam0] {
+    width: 150px;
+    text-align: center;
+}
+.item-image[b-rngufqtam0] {
+    max-width: 150px;
+    max-height: 150px;
+    padding: 6px;
+}
+.item-name[b-rngufqtam0] {
+    flex-grow: 1;
+    padding: 6px;
+}
+.item-price[b-rngufqtam0] {
+    font-weight: 600;
+    text-align: right;
+}
+.btn-item[b-rngufqtam0]{
+    background:none;
+    border:none;
+    padding:0;
+    color:red;
+    font-size:12px;
+}
+.btn-item:hover[b-rngufqtam0]{
+    text-decoration:underline;
+}
+/* /Pages/ProductDetails.razor.rz.scp.css */
+.views[b-tl142shune]
+{
+    font-size:12px;
+    color:gray;
+    text-align: right;
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+.page[b-2z521ig8ar] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-2z521ig8ar] {
+    flex: 1;
+}
+
+.sidebar[b-2z521ig8ar] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-2z521ig8ar] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-2z521ig8ar]  a, .top-row[b-2z521ig8ar]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+        .top-row[b-2z521ig8ar]  a:hover, .top-row[b-2z521ig8ar]  .btn-link:hover {
+            text-decoration: underline;
+        }
+
+        .top-row[b-2z521ig8ar]  a:first-child {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+@media (max-width: 640.98px) {
+    .top-row:not(.auth)[b-2z521ig8ar] {
+        /*display: none;*/
+    }
+
+    .top-row.auth[b-2z521ig8ar] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-2z521ig8ar]  a, .top-row[b-2z521ig8ar]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-2z521ig8ar] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-2z521ig8ar] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-2z521ig8ar] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+        .top-row.auth[b-2z521ig8ar]  a:first-child {
+            flex: 1;
+            text-align: right;
+            width: 0;
+        }
+
+    .top-row[b-2z521ig8ar], article[b-2z521ig8ar] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+/* /Shared/NavMenu.razor.rz.scp.css */
+.navbar-toggler[b-yto0i0vcr6] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.top-row[b-yto0i0vcr6] {
+    height: 3.5rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.navbar-brand[b-yto0i0vcr6] {
+    font-size: 1.1rem;
+}
+
+.oi[b-yto0i0vcr6] {
+    width: 2rem;
+    font-size: 1.1rem;
+    vertical-align: text-top;
+    top: -2px;
+}
+
+.nav-item[b-yto0i0vcr6] {
+    font-size: 0.9rem;
+    padding-bottom: 0.5rem;
+}
+
+    .nav-item:first-of-type[b-yto0i0vcr6] {
+        padding-top: 1rem;
+    }
+
+    .nav-item:last-of-type[b-yto0i0vcr6] {
+        padding-bottom: 1rem;
+    }
+
+    .nav-item[b-yto0i0vcr6]  a {
+        color: #d7d7d7;
+        border-radius: 4px;
+        height: 3rem;
+        display: flex;
+        align-items: center;
+        line-height: 3rem;
+    }
+
+        .nav-item[b-yto0i0vcr6]  a.active {
+            background-color: rgba(255,255,255,0.25);
+            color: white;
+        }
+
+        .nav-item[b-yto0i0vcr6]  a:hover {
+            background-color: rgba(255,255,255,0.1);
+            color: white;
+        }
+
+@media (min-width: 641px) {
+    .navbar-toggler[b-yto0i0vcr6] {
+        display: none;
+    }
+
+    .collapse[b-yto0i0vcr6] {
+        /* Never collapse the sidebar for wide screens */
+        display: block;
+    }
+
+    .nav-scrollable[b-yto0i0vcr6] {
+        /* Allow sidebar to scroll for tall menus */
+        height: calc(100vh - 3.5rem);
+        overflow-y: auto;
+    }
+}

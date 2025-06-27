@@ -1,0 +1,22 @@
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\bin\Debug\net7.0\E-commerce.Shared.deps.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\bin\Debug\net7.0\E-commerce.Shared.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\bin\Debug\net7.0\E-commerce.Shared.pdb
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\obj\Debug\net7.0\refint\E-commerce.Shared.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.pdb
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Shared\obj\Debug\net7.0\ref\E-commerce.Shared.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\bin\Debug\net7.0\E-commerce.Shared.deps.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\bin\Debug\net7.0\E-commerce.Shared.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\bin\Debug\net7.0\E-commerce.Shared.pdb
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.AssemblyInfoInputs.cache
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.AssemblyInfo.cs
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\obj\Debug\net7.0\refint\E-commerce.Shared.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\obj\Debug\net7.0\E-commerce.Shared.pdb
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Shared\obj\Debug\net7.0\ref\E-commerce.Shared.dll

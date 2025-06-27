@@ -1,0 +1,107 @@
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.exe
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Shared.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Client.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Client.pdb
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Shared.pdb
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.AssemblyInfoInputs.cache
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.AssemblyInfo.cs
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.RazorAssemblyInfo.cache
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.RazorAssemblyInfo.cs
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets\msbuild.E-commerce.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.E-commerce.Server.props
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.Server.props
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-commerce.Server.props
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\scopedcss\bundle\E-commerce.Server.styles.css
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\refint\E-commerce.Server.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.pdb
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Client.staticwebassets.runtime.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.staticwebassets.runtime.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.deps.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.runtimeconfig.json
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.pdb
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commer.6273FFB2.Up2Date
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.genruntimeconfig.cache
+C:\Users\MSI\OneDrive\Bureau\Blazor Journey\E-commerce\E-commerce\Server\obj\Debug\net7.0\ref\E-commerce.Server.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.staticwebassets.runtime.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.exe
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.deps.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.runtimeconfig.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Server.pdb
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Shared.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\bin\Debug\net7.0\E-commerce.Shared.pdb
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.csproj.AssemblyReference.cache
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.AssemblyInfoInputs.cache
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.AssemblyInfo.cs
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.csproj.CoreCompileInputs.cache
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.RazorAssemblyInfo.cache
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.RazorAssemblyInfo.cs
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets\msbuild.E-commerce.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.E-commerce.Server.props
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.Server.props
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-commerce.Server.props
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\scopedcss\bundle\E-commerce.Server.styles.css
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commer.6273FFB2.Up2Date
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\refint\E-commerce.Server.dll
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.pdb
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\E-commerce.Server.genruntimeconfig.cache
+C:\Users\Bera40022\Downloads\E-commerce\E-commerce\E-commerce\Server\obj\Debug\net7.0\ref\E-commerce.Server.dll
